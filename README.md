@@ -15,14 +15,15 @@ This modpack is designed to be feature rich while providing functionality and op
  
 ### Custom Main Menu & Loading Screen
 
-This modpack features a fully custom main menu with custom music! There are 10 main menu variants each with matching music. The loading screen has also been customized.
+This modpack features a fully custom main menu with custom music! There are 10 main menu variants each with matching music. The loading screen has also been customized. Watch the demonstration below:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KP6yD7GRyTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Youtube Demonstration](https://img.youtube.com/vi/KP6yD7GRyTk/0.jpg)](https://www.youtube.com/watch?v=KP6yD7GRyTk)
  
 ### Dynamic Weather
 
 Features a [dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-weather) created specifically for this modpack! Rain or thunder can randomly occur throughout the map, and areas such as Nemract, Pirate Cove, the Dernal Jungle, and others experience more frequent weather conditions. Traverse through snowstorms in Nesaak, sandstorms in Almuj and other weather hazards! Coupled perfectly with the [Particle Rain](https://modrinth.com/mod/particle-rain) mod with custom settings.
-![Preview Gif](https://drive.google.com/drive-viewer/AKGpihZe-LZ_LIkfoXnYZ-l0xD05g-kje4CY40NTSyncBlf_N3RhDEkcoy90wt18-9xJTyaaUsQ28vDgH-uMMGsCuG2Rwo3a3WwITl0=s2560)
+
+![WynnWeather4](https://github.com/user-attachments/assets/ab469bc7-1b67-4001-87b4-7a564c8ca17d)
 
 
 ### Custom Wynntils Preset
@@ -35,8 +36,8 @@ Comes preloaded with a custom Wynntils preset designed with simplicity and begin
 ### Shoulder Surfing
 
 Comes with preset settings for the incredibly popular Shoulder Surfing mod!
+![ShoulderSurfing3](https://github.com/user-attachments/assets/05f3bbdd-b865-4fdb-a702-aefb20bcff3c)
 
-![Shoulder Surfing](https://drive.google.com/drive-viewer/AKGpihYg_AbS6qYy5cCoiim5asxGG1l8GfqHA910TG2dqu3SM11jl4tGofgV7gRZIoO2UgZ20zADs1OMH36B2-mCeeUpRlGVNh5Y-Mg=s2560)
 
 ### Optimization
 
