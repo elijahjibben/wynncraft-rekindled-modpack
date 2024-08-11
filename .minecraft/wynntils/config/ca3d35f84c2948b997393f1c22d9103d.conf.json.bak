@@ -1,0 +1,1275 @@
+{
+  "arrowShieldTrackerOverlayFeature.arrowShieldTrackerOverlay1.position": {
+    "verticalOffset": -0.66619873,
+    "horizontalOffset": 42.59436,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomLeft"
+  },
+  "arrowShieldTrackerOverlayFeature.arrowShieldTrackerOverlay1.size": {
+    "width": 102.319435,
+    "height": 14.0
+  },
+  "arrowShieldTrackerOverlayFeature.arrowShieldTrackerOverlay1.verticalAlignmentOverride": "middle",
+  "bombBellOverlayFeature.bombBellOverlay.horizontalAlignmentOverride": "right",
+  "bombBellOverlayFeature.bombBellOverlay.position": {
+    "verticalOffset": -25.166613,
+    "horizontalOffset": -0.9970093,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "bombBellOverlayFeature.bombBellOverlay.size": {
+    "width": 179.98438,
+    "height": 76.99996
+  },
+  "bombBellOverlayFeature.bombBellOverlay.verticalAlignmentOverride": "top",
+  "bombBellOverlayFeature.userEnabled": true,
+  "chatTabsFeature.chatTabs": [
+    {
+      "name": "All",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": null,
+      "customRegexString": null
+    },
+    {
+      "name": "Global",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "global"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Local",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "local"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Party",
+      "consuming": false,
+      "autoCommand": "/p  ",
+      "filteredTypes": [
+        "party"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Guild",
+      "consuming": false,
+      "autoCommand": "/g  ",
+      "filteredTypes": [
+        "guild"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Private",
+      "consuming": false,
+      "autoCommand": "/r  ",
+      "filteredTypes": [
+        "private"
+      ],
+      "customRegexString": null
+    }
+  ],
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.position": {
+    "verticalOffset": 10.166595,
+    "horizontalOffset": -0.8340759,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.size": {
+    "width": 157.6336,
+    "height": 18.333336
+  },
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.useShortFormat": true,
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.userEnabled": false,
+  "contentTrackerOverlayFeature.contentTrackerOverlay.horizontalAlignmentOverride": "center",
+  "contentTrackerOverlayFeature.contentTrackerOverlay.position": {
+    "verticalOffset": -20.33339,
+    "horizontalOffset": 4.5772085,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "contentTrackerOverlayFeature.contentTrackerOverlay.size": {
+    "width": 120.19312,
+    "height": 94.66667
+  },
+  "contentTrackerOverlayFeature.contentTrackerOverlay.verticalAlignmentOverride": "top",
+  "customCommandKeybindsFeature.commandType1": "execute",
+  "customCommandKeybindsFeature.keybindCommand1": "feature enable BombBellOverlay",
+  "customCommandKeybindsFeature.keybindCommand2": "feature disable BombBellOverlay",
+  "customTerritoryManagementScreenFeature.userEnabled": false,
+  "dataCrowdSourcingFeature.crowdSourcedDataTypeEnabledMap": {
+    "lootrunTaskLocations": "true",
+    "npcLocations": "true",
+    "professionNodeLocations": "true",
+    "professionCraftingStationLocations": "true"
+  },
+  "delegate.userEnabled": false,
+  "gameBarsOverlayFeature.bloodPoolBarOverlay.userEnabled": true,
+  "gameBarsOverlayFeature.manaBankBarOverlay.userEnabled": true,
+  "gameNotificationOverlayFeature.gameNotificationOverlay.horizontalAlignmentOverride": "right",
+  "gameNotificationOverlayFeature.gameNotificationOverlay.position": {
+    "verticalOffset": -17.999939,
+    "horizontalOffset": -0.3295288,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomRight"
+  },
+  "gameNotificationOverlayFeature.gameNotificationOverlay.size": {
+    "width": 167.93597,
+    "height": 70.00001
+  },
+  "gameNotificationOverlayFeature.gameNotificationOverlay.verticalAlignmentOverride": "bottom",
+  "gammabrightFeature.gammabrightEnabled": false,
+  "itemFavoriteFeature.favoriteItems": [
+    "The Nothing"
+  ],
+  "itemLockFeature.classSlotLockMap": {
+    "590b1595": [
+      0,
+      1,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      36,
+      37,
+      38,
+      39
+    ],
+    "72247af8": [
+      0,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      36,
+      37,
+      38,
+      39
+    ],
+    "85518314": [
+      0,
+      1,
+      2
+    ],
+    "b83289d1": [
+      0,
+      1,
+      9,
+      10,
+      11,
+      12,
+      14,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.horizontalAlignmentOverride": "right",
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.position": {
+    "verticalOffset": 36.33307,
+    "horizontalOffset": -1.8693848,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.size": {
+    "width": 78.866325,
+    "height": 100.99999
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.verticalAlignmentOverride": "top",
+  "lootrunOverlaysFeature.lootrunMissionsOverlay1.position": {
+    "verticalOffset": -1.333313,
+    "horizontalOffset": 2.6648314,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomLeft"
+  },
+  "lootrunOverlaysFeature.lootrunMissionsOverlay1.size": {
+    "width": 141.3422,
+    "height": 38.666683
+  },
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.horizontalAlignmentOverride": "left",
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.position": {
+    "verticalOffset": 18.500183,
+    "horizontalOffset": 2.2247653,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomLeft"
+  },
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.size": {
+    "width": 168.64209,
+    "height": 41.00001
+  },
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.verticalAlignmentOverride": "top",
+  "mainMapFeature.customPois": [
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -588,
+        "y": 55,
+        "z": -1561
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -398,
+        "y": 51,
+        "z": -1775
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -472,
+        "y": 39,
+        "z": -1753
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 682,
+        "y": 30,
+        "z": -1625
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 768,
+        "y": 48,
+        "z": -1767
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 686,
+        "y": 18,
+        "z": -1715
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 504,
+        "y": 56,
+        "z": -1856
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 139,
+        "y": 114,
+        "z": -1698
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -415,
+        "y": 11,
+        "z": -2049
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1022,
+        "y": 3,
+        "z": -2065
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1508,
+        "y": 5,
+        "z": -1494
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1159,
+        "y": 5,
+        "z": -1533
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 255,
+        "y": 38,
+        "z": -642
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1854,
+        "y": 23,
+        "z": -4914
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -170,
+        "y": 42,
+        "z": -786
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -169,
+        "y": 44,
+        "z": -1004
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1096,
+        "y": 103,
+        "z": -2661
+      }
+    },
+    {
+      "name": "Carp",
+      "color": "#ffffffff",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 1182,
+        "y": null,
+        "z": -2260
+      }
+    },
+    {
+      "name": "Icefish",
+      "color": "#ffffffff",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -101,
+        "y": null,
+        "z": -748
+      }
+    },
+    {
+      "name": "Koi",
+      "color": "#ffffffff",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -1309,
+        "y": null,
+        "z": -5173
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1382,
+        "y": 23,
+        "z": -2737
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1430,
+        "y": 45,
+        "z": -2715
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1455,
+        "y": 36,
+        "z": -2312
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1446,
+        "y": 36,
+        "z": -2336
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1378,
+        "y": 36,
+        "z": -2301
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1429,
+        "y": 38,
+        "z": -2397
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1436,
+        "y": 2,
+        "z": -2365
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1700,
+        "y": 3,
+        "z": -2489
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1709,
+        "y": 3,
+        "z": -2495
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1717,
+        "y": 4,
+        "z": -2485
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1685,
+        "y": 13,
+        "z": -2565
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1761,
+        "y": 15,
+        "z": -2628
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1715,
+        "y": 12,
+        "z": -2639
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1741,
+        "y": 22,
+        "z": -2720
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1755,
+        "y": 23,
+        "z": -2822
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1740,
+        "y": 18,
+        "z": -2812
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1605,
+        "y": 38,
+        "z": -3077
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1673,
+        "y": 8,
+        "z": -3091
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1795,
+        "y": 8,
+        "z": -3413
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1616,
+        "y": 37,
+        "z": -3109
+      }
+    },
+    {
+      "name": "Corkus Lootrun",
+      "color": "#ffffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -1555,
+        "y": null,
+        "z": -2674
+      }
+    },
+    {
+      "name": "Lutho Lootrun",
+      "color": "#ffffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 995,
+        "y": null,
+        "z": -785
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1152,
+        "y": 124,
+        "z": -253
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1155,
+        "y": 124,
+        "z": -252
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1158,
+        "y": 124,
+        "z": -253
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 782,
+        "y": 57,
+        "z": -460
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 921,
+        "y": 33,
+        "z": -413
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 747,
+        "y": 63,
+        "z": -746
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1095,
+        "y": 60,
+        "z": -697
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 839,
+        "y": 42,
+        "z": -754
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 724,
+        "y": 143,
+        "z": -963
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 718,
+        "y": 143,
+        "z": -963
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 959,
+        "y": 97,
+        "z": -1149
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1279,
+        "y": 76,
+        "z": -1136
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1324,
+        "y": 72,
+        "z": -1116
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1507,
+        "y": 55,
+        "z": -1078
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1422,
+        "y": 120,
+        "z": -996
+      }
+    },
+    {
+      "name": "Ahmsord Lootrun Camp",
+      "color": "#ffffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 1046,
+        "y": null,
+        "z": -4415
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 983,
+        "y": 166,
+        "z": -4347
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1158,
+        "y": 112,
+        "z": -4316
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 894,
+        "y": 102,
+        "z": -4352
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 892,
+        "y": 128,
+        "z": -4396
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1278,
+        "y": 128,
+        "z": -4618
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1383,
+        "y": 103,
+        "z": -4715
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1092,
+        "y": 80,
+        "z": -4702
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1099,
+        "y": 77,
+        "z": -4692
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 931,
+        "y": 178,
+        "z": -4776
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 926,
+        "y": 130,
+        "z": -4777
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 743,
+        "y": 119,
+        "z": -4765
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 755,
+        "y": 186,
+        "z": -4762
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 739,
+        "y": 55,
+        "z": -4930
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1014,
+        "y": 76,
+        "z": -4998
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1015,
+        "y": 64,
+        "z": -5060
+      }
+    }
+  ],
+  "minimapFeature.coordinateOverlay1.horizontalAlignmentOverride": "center",
+  "minimapFeature.coordinateOverlay1.position": {
+    "verticalOffset": -10.999847,
+    "horizontalOffset": 4.657942,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "topLeft"
+  },
+  "minimapFeature.coordinateOverlay1.shouldBeColored": true,
+  "minimapFeature.coordinateOverlay1.size": {
+    "width": 120.32581,
+    "height": 12.666666
+  },
+  "minimapFeature.coordinateOverlay1.userEnabled": false,
+  "minimapFeature.minimapOverlay.borderType": "paper",
+  "minimapFeature.minimapOverlay.followPlayerRotation": false,
+  "minimapFeature.minimapOverlay.maskType": "circle",
+  "minimapFeature.minimapOverlay.pointerType": "narrow",
+  "minimapFeature.minimapOverlay.position": {
+    "verticalOffset": -16.000013,
+    "horizontalOffset": 5.3367176,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "topLeft"
+  },
+  "minimapFeature.minimapOverlay.size": {
+    "width": 120.310104,
+    "height": 113.333305
+  },
+  "minimapFeature.minimapOverlay.zoomLevel": 70.0,
+  "minimapFeature.territoryOverlay1.horizontalAlignmentOverride": "center",
+  "minimapFeature.territoryOverlay1.position": {
+    "verticalOffset": -21.66626,
+    "horizontalOffset": 5.002299,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "topLeft"
+  },
+  "minimapFeature.territoryOverlay1.size": {
+    "width": 120.65933,
+    "height": 15.0
+  },
+  "mobTotemTimerOverlayFeature.mobTotemTimerOverlay1.position": {
+    "verticalOffset": -9.00114,
+    "horizontalOffset": -0.6616211,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "middleRight"
+  },
+  "mobTotemTimerOverlayFeature.mobTotemTimerOverlay1.size": {
+    "width": 107.32333,
+    "height": 31.000015
+  },
+  "mobTotemTimerOverlayFeature.mobTotemTimerOverlay1.verticalAlignmentOverride": "middle",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.horizontalAlignmentOverride": "right",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.position": {
+    "verticalOffset": -2.9997864,
+    "horizontalOffset": -1.3304443,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomRight"
+  },
+  "objectivesOverlayFeature.dailyObjectiveOverlay.size": {
+    "width": 132.3197,
+    "height": 27.666664
+  },
+  "objectivesOverlayFeature.guildObjectiveOverlay.horizontalAlignmentOverride": "right",
+  "objectivesOverlayFeature.guildObjectiveOverlay.position": {
+    "verticalOffset": -32.833252,
+    "horizontalOffset": -1.3296509,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomRight"
+  },
+  "objectivesOverlayFeature.guildObjectiveOverlay.size": {
+    "width": 131.98608,
+    "height": 29.999998
+  },
+  "objectivesOverlayFeature.guildObjectiveOverlay.verticalAlignmentOverride": "bottom",
+  "partyMembersOverlayFeature.partyMembersOverlay.disablePartyMembersOnScoreboard": false,
+  "partyMembersOverlayFeature.partyMembersOverlay.position": {
+    "verticalOffset": 17.333527,
+    "horizontalOffset": 5.3334837,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "partyMembersOverlayFeature.partyMembersOverlay.size": {
+    "width": 100.952324,
+    "height": 88.666695
+  },
+  "partyMembersOverlayFeature.partyMembersOverlay.userEnabled": false,
+  "perCharacterGuildContributionFeature.characterContributions": {
+    "b83289d1": 0
+  },
+  "perCharacterGuildContributionFeature.userEnabled": false,
+  "powderSpecialBarOverlayFeature.powderSpecialBarOverlay.userEnabled": false,
+  "powderSpecialBarOverlayFeature.powderSpecialBarOverlay.verticalAlignmentOverride": "top",
+  "raidProgressFeature.raidProgressOverlay1.horizontalAlignmentOverride": "right",
+  "raidProgressFeature.raidProgressOverlay1.position": {
+    "verticalOffset": -25.999926,
+    "horizontalOffset": -1.7902222,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "raidProgressFeature.raidProgressOverlay1.size": {
+    "width": 150.0,
+    "height": 102.66663
+  },
+  "raidProgressFeature.raidProgressOverlay1.userEnabled": false,
+  "raidProgressFeature.raidProgressOverlay1.verticalAlignmentOverride": "top",
+  "raidProgressFeature.userEnabled": false,
+  "serverInfoOverlayFeature.server_info_overlay_feature)_overlay.userEnabled": false,
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.horizontalAlignmentOverride": "center",
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.position": {
+    "verticalOffset": 1.1667786,
+    "horizontalOffset": 1.1113434,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "middle"
+  },
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.size": {
+    "width": 409.88522,
+    "height": 23.000004
+  },
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.userEnabled": true,
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.verticalAlignmentOverride": "top",
+  "serverUptimeInfoOverlayFeature.userEnabled": false,
+  "shamanMaskOverlayFeature.shamanMaskOverlay1.verticalAlignmentOverride": "middle",
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.horizontalAlignmentOverride": "right",
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.position": {
+    "verticalOffset": -9.000122,
+    "horizontalOffset": 0.33776855,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomRight"
+  },
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.verticalAlignmentOverride": "top",
+  "statusEffectsOverlayFeature.statusEffectsOverlay.horizontalAlignmentOverride": "right",
+  "statusEffectsOverlayFeature.statusEffectsOverlay.position": {
+    "verticalOffset": -3.9999237,
+    "horizontalOffset": -1.3306885,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "statusEffectsOverlayFeature.statusEffectsOverlay.size": {
+    "width": 163.26573,
+    "height": 75.33336
+  },
+  "statusEffectsOverlayFeature.statusEffectsOverlay.userEnabled": false,
+  "statusEffectsOverlayFeature.statusEffectsOverlay.verticalAlignmentOverride": "top",
+  "stopwatchFeature.stopwatchOverlay1.position": {
+    "verticalOffset": 17.000015,
+    "horizontalOffset": 1.3343873,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "stopwatchFeature.stopwatchOverlay1.userEnabled": false,
+  "telemetryFeature.crashReports": "true",
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.horizontalAlignmentOverride": "right",
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.position": {
+    "verticalOffset": -18.666592,
+    "horizontalOffset": -7.001465,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.size": {
+    "width": 138.57964,
+    "height": 110.0
+  },
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.userEnabled": false,
+  "territoryAttackTimerOverlayFeature.userEnabled": false,
+  "tokenBarsOverlayFeature.tokenBarsOverlay.position": {
+    "verticalOffset": 7.666735,
+    "horizontalOffset": -7.668091,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "tokenBarsOverlayFeature.tokenBarsOverlay.size": {
+    "width": 79.33203,
+    "height": 76.33333
+  },
+  "tokenBarsOverlayFeature.tokenBarsOverlay.userEnabled": false,
+  "tokenBarsOverlayFeature.tokenBarsOverlay.verticalAlignmentOverride": "bottom",
+  "towerEffectOverlayFeature.towerAuraTimerOverlay1.userEnabled": false,
+  "towerEffectOverlayFeature.towerVolleyTimerOverlay1.userEnabled": false,
+  "towerStatsFeature.towerStatsOverlay1.position": {
+    "verticalOffset": -4.9996796,
+    "horizontalOffset": 5.0013733,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "towerStatsFeature.towerStatsOverlay1.userEnabled": false,
+  "towerStatsFeature.towerStatsOverlay1.verticalAlignmentOverride": "top",
+  "towerStatsFeature.userEnabled": false,
+  "warHornFeature.userEnabled": false,
+  "worldWaypointDistanceFeature.bottomBoundingDistance": 96.0,
+  "wynncraftButtonFeature.serverType": "game",
+  "wynncraftButtonFeature.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay1.content": "\u00266({xp_pct}%)",
+  "infoBoxFeature.infoBoxOverlay1.textShadow": "outline",
+  "infoBoxFeature.infoBoxOverlay1.position": {
+    "verticalOffset": 20.667175,
+    "horizontalOffset": 1.038147,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "infoBoxFeature.infoBoxOverlay1.size": {
+    "width": 183.47421,
+    "height": 16.666666
+  },
+  "infoBoxFeature.infoBoxOverlay1.userEnabled": false,
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName",
+    "npcDialoguesRenamed",
+    "npcDialoguesOverlayConfigsMoved",
+    "towerAuraVignetteName",
+    "towerAuraVignetteAndOverlayMovedToCommonFeature",
+    "combatXpGainToXpGain"
+  ],
+  "overlayGroups": {
+    "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
+      1
+    ],
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": []
+  }
+}

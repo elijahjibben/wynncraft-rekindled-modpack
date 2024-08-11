@@ -1,0 +1,99 @@
+[raidoverlay.raidoverlay]
+wasenabled = true
+[bombbell.bombbell]
+wasenabled = true
+[weeklywars.weeklywars]
+wasenabled = true
+[timeroverlay.timeroverlay]
+wasenabled = true
+[serverinfo.serverinfo]
+wasenabled = true
+[warinfo.warinfo]
+wasenabled = true
+["bomb bell overlay".bombbellfeature]
+enabled = false
+display_bomb_thrower = true
+style = "OUTLINE"
+text_color = -171
+background_color = 2130706432
+["war info overlay".warinfooverlayfeature]
+enabled = true
+style = "OUTLINE"
+background_color = 2130706432
+["print completion times".printtimesfeature]
+enabled = true
+["display weekly war count".weeklywarcountoverlay]
+enabled = true
+style = "OUTLINE"
+text_color = -43521
+background_color = 2130706432
+wars = []
+["territory helper menu".territoryhelpermenufeature]
+enabled = true
+production = true
+percents = false
+replaceloadouts = true
+hideignoredterritories = false
+ignorecutoffresources = true
+ignoreblacklistedresources = true
+blacklist = ["Light Forest West Upper", "Light Forest West Mid", "Light Forest East Lower", "Light Forest East Mid", "Light Forest Canyon", "Aldorei Valley South Entrance", "Aldorei's North Exit", "Cinfras County Lower", "Path To The Arch", "Ghostly Path", "Aldorei's Arch", "Burning Farm", "Heavenly Ingress", "Primal Fen", "Luminous Plateau", "Field of Life", "Path to Light", "Otherwordly Monolith", "Azure Frontier", "Nexus of Light", "Jungle Lake", "Herb Cave", "Great Bridge Jungle", "Jungle Lower", "Jungle Mid", "Jungle Upper", "Dernel Jungle Mid", "Dernel Jungle Lower", "Dernel Jungle Upper"]
+["stack duplicate messages".stackduplicatemessagesfeature]
+enabled = true
+["aura sound notification".auranotificationfeature]
+enabled = false
+selected = "minecraft:block.anvil.land"
+volume = 1.0
+pitch = 1.0
+["reveal nicknames".revealnicknamesfeature]
+enabled = true
+replace_nicknames = false
+["season leaderboard helper".seasonleaderboardfeature]
+enabled = true
+["extended online info".extendedguildonlinemembersfeature]
+enabled = true
+["filter guild bank messages".filterguildbankmessagesfeature]
+enabled = false
+["war horn".warhornfeature]
+enabled = true
+selected = "fuy:war.horn"
+volume = 1.0
+pitch = 1.0
+["click to congratulate".clicktocongratulatefeature]
+enabled = true
+message = "Congratulations!"
+["beacon on timers".beaconontimersfeature]
+enabled = false
+["server info overlay".serverinfofeature]
+enabled = false
+style = "OUTLINE"
+background_color = 2130706432
+["attack timer overlay".attacktimeroverlayfeature]
+enabled = true
+hidetimers = true
+style = "OUTLINE"
+background_color = 2130706432
+["tower stats feature".towerstatsfeature]
+enabled = true
+["autoskip dialogue".autoskipdialoguefeature]
+enabled = false
+["custom death messages".customdeathmessagesfeature]
+enabled = false
+volume = 1.0
+pitch = 1.0
+templates = ["{player} met their demise.", "{player} is six feet under.", "{player} was killed.", "{player} met their fate.", "{player} has died.", "{player} kicked the bucket.", "{player} has been slain.", "{player} passed away.", "{player} bit the dust.", "{player} has perished.", "^[sphxia]:{player} made love to a cheep cheep. {play(\"fuy:cheep.cheep\")}"]
+["auto stream".autostreamfeature]
+enabled = false
+keybind = true
+["lootrun dry streak".lootrundrystreakfeature]
+enabled = true
+mythics = []
+pullssincelastmythic = 0
+hasset = true
+["raid overlay".raidoverlayfeature]
+enabled = false
+style = "OUTLINE"
+background_color = 2130706432
+["auto update".autoupdatefeature]
+enabled = true
+[warcommon.warcommon]
+use_seconds = false

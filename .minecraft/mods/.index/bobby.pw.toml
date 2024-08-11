@@ -1,0 +1,13 @@
+filename = 'bobby-5.2.3+mc1.21.jar'
+name = 'Bobby'
+side = 'both'
+
+[download]
+hash = '56eb4f8b44c847d5f092a5be44c9bff4454f91aa0d8cf93206f93f048b7bbbb709b8030276d11fb1313763a45d56f4e9872f64ee1cce653d778d1d3c445c4106'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M08ruV16/versions/hL2qgP4K/bobby-5.2.3%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'M08ruV16'
+version = 'hL2qgP4K'

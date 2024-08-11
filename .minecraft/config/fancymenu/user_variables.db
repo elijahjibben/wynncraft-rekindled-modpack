@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = in_other_menu
+  value = false
+  reset_on_launch = false
+}
+

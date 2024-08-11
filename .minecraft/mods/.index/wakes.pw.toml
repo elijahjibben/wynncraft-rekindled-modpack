@@ -1,0 +1,13 @@
+filename = 'wakes-0.2.5+1.21.jar'
+name = 'Wakes'
+side = 'both'
+
+[download]
+hash = 'dd2a6c5d71a8cc2a67275a0c7a70b949ea3cda7eb3b3bdc43afe31c7d1e28abd3b663846b0c3d979ad6171c43502f4e4c74eb10661a24325157155afbd44f20c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dlNu0RQY/versions/1RGuUTi1/wakes-0.2.5%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'dlNu0RQY'
+version = '1RGuUTi1'

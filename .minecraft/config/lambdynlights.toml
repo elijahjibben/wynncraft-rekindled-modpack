@@ -1,0 +1,102 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				frog = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				armor_stand = true
+				giant = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				shulker = true
+				turtle = true
+				wither_skeleton = true
+				vex = true
+				salmon = true
+				goat = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				minecart = true
+				leash_knot = true
+				evoker = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				donkey = true
+				evoker_fangs = true
+				chest_minecart = true
+				fox = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				blaze = true
+				endermite = true
+				cat = true
+				zombie = true
+				ender_pearl = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				illusioner = true
+				wither_skull = true
+				eye_of_ender = true
+				villager = true
+				wolf = true
+				skeleton_horse = true
+				zombie_villager = true
+				small_fireball = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				snow_golem = true
+				cod = true
+				spider = true
+				wither = true
+

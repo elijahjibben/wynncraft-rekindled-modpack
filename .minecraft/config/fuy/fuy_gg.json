@@ -1,0 +1,87 @@
+{
+  "war": {
+    "attack_timer_overlay": {
+      "enabled": false,
+      "replaced": [
+        "Y29tLnd5bm50aWxzLm92ZXJsYXlzLlRlcnJpdG9yeUF0dGFja1RpbWVyT3ZlcmxheQ\u003d\u003d"
+      ]
+    },
+    "display_beacon_on_timers": {
+      "enabled": false,
+      "replaced": []
+    },
+    "guild_map_improvements": {
+      "replaced": []
+    },
+    "print_war_stats": {
+      "replaced": [
+        "Y29tLnd5bm50aWxzLmZlYXR1cmVzLm92ZXJsYXlzLlRvd2VyU3RhdHNGZWF0dXJl"
+      ]
+    },
+    "territory_helper_menu": {
+      "replaced": [
+        "Y29tLnd5bm50aWxzLmZlYXR1cmVzLnVpLkN1c3RvbVRlcnJpdG9yeU1hbmFnZW1lbnRTY3JlZW5GZWF0dXJl"
+      ]
+    },
+    "war_common": {},
+    "war_horn": {
+      "replaced": [
+        "Y29tLnd5bm50aWxzLmZlYXR1cmVzLmVtYmVsbGlzaG1lbnRzLldhckhvcm5GZWF0dXJl"
+      ]
+    },
+    "war_info_overlay": {
+      "enabled": false,
+      "replaced": [
+        "Y29tLnd5bm50aWxzLm92ZXJsYXlzLlRvd2VyU3RhdHNPdmVybGF5"
+      ]
+    },
+    "weekly_war_count_overlay": {
+      "enabled": false,
+      "replaced": []
+    },
+    "weekly_war_count_overlay_overlay": {
+      "replaced": []
+    }
+  },
+  "buster": {
+    "buster_service": {}
+  },
+  "chat": {
+    "clean_log": {
+      "replaced": []
+    },
+    "stack_duplicate_messages": {
+      "replaced": []
+    }
+  },
+  "general": {
+    "click_to_congratulate": {
+      "replaced": []
+    },
+    "content": {},
+    "content_timer": {
+      "enabled": false,
+      "pbs": {},
+      "replaced": [
+        "Y29tLnd5bm50aWxzLm92ZXJsYXlzLlJhaWRQcm9ncmVzc092ZXJsYXk\u003d"
+      ]
+    },
+    "legacy_config": {
+      "read": true
+    },
+    "lootrun_dry_streak": {
+      "dry": 0,
+      "replaced": []
+    },
+    "persist_stream": {
+      "toggled": false,
+      "replaced": []
+    },
+    "server_info_overlay": {
+      "enabled": false,
+      "replaced": [
+        "Y29tLnd5bm50aWxzLm92ZXJsYXlzLlNlcnZlclVwdGltZUluZm9PdmVybGF5"
+      ]
+    }
+  }
+}

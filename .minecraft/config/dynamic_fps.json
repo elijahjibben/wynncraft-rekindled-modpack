@@ -1,0 +1,10 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 3,
+      "volume_multipliers": {
+        "master": 0.15
+      }
+    }
+  }
+}

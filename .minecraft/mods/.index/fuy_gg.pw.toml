@@ -1,0 +1,13 @@
+filename = 'fuy.gg-2.0.1+MC-1.21.jar'
+name = 'fuy.gg'
+side = 'both'
+
+[download]
+hash = 'b647dd131fa2fe739f15d342fda19ce6893857ab3ff7e550b1fc437b4316fd4379570dd964feb4938fb03b3f3432196130d3024a6f9c0a255fff6af82de2e9c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EMQzFaJ1/versions/cdL4wXhZ/fuy.gg-2.0.1%2BMC-1.21.jar'
+
+[update.modrinth]
+mod-id = 'EMQzFaJ1'
+version = 'cdL4wXhZ'

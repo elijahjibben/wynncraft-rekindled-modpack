@@ -1,0 +1,13 @@
+filename = 'cullparticles-1.1-1.21.jar'
+name = 'Cull Particles'
+side = 'client'
+
+[download]
+hash = 'eaca58fb078924f201929739931615a634d8e32ef098c2fadb2385672df08e9da5d07a3b1f5f7c17e9304103d103275c477df75264f136f03ea80dceb234b0fa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cya14nsC/versions/g7kF1cg9/cullparticles-1.1-1.21.jar'
+
+[update.modrinth]
+mod-id = 'Cya14nsC'
+version = 'g7kF1cg9'

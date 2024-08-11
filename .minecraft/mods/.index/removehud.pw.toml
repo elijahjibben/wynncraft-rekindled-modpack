@@ -1,0 +1,13 @@
+filename = 'removehud-1.3b5.jar'
+name = 'Remove Hud But Not Hand!'
+side = 'both'
+
+[download]
+hash = '1778248b019dc135a5771bb2b2a0b7814a699e19593dc4b5ffb9de83c7fcc6fc982cc7863ea4a038a3020e3ec1f22d4460942ac9957821851c66a752a386c696'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MiPOIx6b/versions/xa9MjFsj/removehud-1.3b5.jar'
+
+[update.modrinth]
+mod-id = 'MiPOIx6b'
+version = 'xa9MjFsj'

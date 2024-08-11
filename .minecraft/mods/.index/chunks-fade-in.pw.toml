@@ -1,0 +1,13 @@
+filename = 'chunksfadein-1.0.1-1.21.jar'
+name = 'Chunks Fade In'
+side = 'both'
+
+[download]
+hash = 'a66b8645a99bd096284b97e5fcddeb0ac1bd5c6b603e599bc54e2a62c6b01a85e4bb3ddde16e6b39c5ec1042765a0c863d4b0290bf0e1fe15154836c64a092dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JaNmzvA8/versions/PEetbdug/chunksfadein-1.0.1-1.21.jar'
+
+[update.modrinth]
+mod-id = 'JaNmzvA8'
+version = 'PEetbdug'

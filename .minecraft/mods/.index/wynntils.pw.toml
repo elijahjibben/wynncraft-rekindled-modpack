@@ -1,0 +1,13 @@
+filename = 'wynntils-2.0.0-fabric+MC-1.21.jar'
+name = 'Wynntils'
+side = 'client'
+
+[download]
+hash = '9555f33df61f06008f8b101cc48f186d4468e2e4582ed30350a1991088db6c5cb47a7df09ddae2d4f216b4983dc805e0ba518e91e74035c230c63ce28d23f842'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dU5Gb9Ab/versions/E92ZP8ji/wynntils-2.0.0-fabric%2BMC-1.21.jar'
+
+[update.modrinth]
+mod-id = 'dU5Gb9Ab'
+version = 'E92ZP8ji'

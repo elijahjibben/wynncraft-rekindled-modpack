@@ -1,0 +1,13 @@
+filename = 'barriers-dont-block-rain-1.0.3.jar'
+name = "Barriers Don't Block Rain 1.21 Fork"
+side = 'client'
+
+[download]
+hash = '9c198867b748be405e470cb3df4583dae1236ba025b8ebf5acf09b6e7d949af5042df2b3c6f3d0dfd67a02e9938cce747c5a412d05b6a7a1e0dabc2d59fb537e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fwmKUI9s/versions/OWreVwsS/barriers-dont-block-rain-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'fwmKUI9s'
+version = 'OWreVwsS'
