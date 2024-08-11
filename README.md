@@ -55,7 +55,12 @@ Some mods are still in the process of getting ported to 1.21. There are several 
 
 ## Installation
 
-**IMPORTANT NOTE:** Due to filesize limitations on Modrinth, the Bobby config folder is hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide:
+**IMPORTANT NOTE:** Due to filesize limitations on Modrinth, the Bobby config folder is hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide.\
+**Common Issues**\
+-**Crashing**\
+Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.\
+-**Menu is Glitch/Clipping**\
+This is an common issue when first starting the pack. Try pressing CTRL + Alt + R to reload the menu. Unfortunately, in some scenarios it is impossible to fix this.
 
 <details>
 <summary>Installation Guide</summary>
