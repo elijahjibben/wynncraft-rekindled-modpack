@@ -59,7 +59,7 @@ Some mods are still in the process of getting ported to 1.21. There are several 
 **Common Issues**\
 -**Crashing**\
 Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.\
--**Menu is Glitch/Clipping**\
+-**Menu is Glitchy/Clipping**\
 This is an common issue when first starting the pack. Try pressing CTRL + Alt + R to reload the menu. Unfortunately, in some scenarios it is impossible to fix this.
 
 <details>
