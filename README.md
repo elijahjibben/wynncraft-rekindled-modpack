@@ -28,7 +28,7 @@ Features a [dynamic weather engine](https://modrinth.com/mod/wynncraft-dynamic-w
 
 ### Custom Wynntils Preset
 
-Comes preloaded with a custom Wynntils preset designed with simplicity and beginners in mind. More advanced players are recommneded to import their own Wynntils settings.
+Comes preloaded with a custom Wynntils preset designed with simplicity and beginners in mind. More advanced players are recommended to import their own Wynntils settings.
 
 ![Wynntils Map](https://cdn.modrinth.com/data/cached_images/72a1c3b9d4decc3099276ef73a345e84e3d490eb.jpeg)
 ![Wynntils Quest Book](https://cdn.modrinth.com/data/cached_images/761feff2f647833da3f65c2a8dc89303720bb831.png)
@@ -56,11 +56,6 @@ Some mods are still in the process of getting ported to 1.21. There are several 
 ## Installation
 
 **IMPORTANT NOTE:** Due to filesize limitations on Modrinth, the Bobby config folder is hosted on the [GitHub releases page.](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) For instructions to install it, please review the installation guide.\
-**Common Issues**\
--**Crashing**\
-Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.\
--**Menu is Glitchy/Clipping**\
-This is an common issue when first starting the pack. Try pressing CTRL + Alt + R to reload the menu. Unfortunately, in some scenarios it is impossible to fix this.
 
 <details>
 <summary>Installation Guide</summary>
@@ -79,11 +74,13 @@ There are three easy ways to download the modpack: The Modrinth app, Prism Launc
 
 ## Prism Launcher
 1. Download [Prism Launcer](https://prismlauncher.org/) and sign in with your Microsoft/Minecraft account.
-2. Download the .zip version of the modpack from the [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
-3. Drag and drop into the Prism Launcher menu.
-4. Select "Ok"
-5. Right click -> Rename if desired
-6. Launch the game and follow Step Three.
+2. Press "Add Instance" in the top right corner.
+3. Select the Modrinth panel, and search for "Wynncraft: Rekindled"
+4. Make sure the latest version is selected  and press "Ok".
+5. Navigate to the modpack's [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
+6. Download the file "bobby.zip". This allows you to increase your render distance beyond the server limit of 9 chunks.
+7. In Prism, select the modpack then press folder.
+8. Follow Step Two to install the bobby configuration.
 
 ## Manually (Minecraft Launcher)
 1. Download the .zip version of the modpack from the [GitHub Releases](https://github.com/elijahjibben/wynncraft-rekindled-modpack/releases) panel.
@@ -111,16 +108,32 @@ play.wynncraft.com
 It should look like this:\
 ![Bobby File Demonstration](https://cdn.modrinth.com/data/cached_images/471bf9ce4475b682f3028b6452bb3486396892de.gif)
 
-# Step Three: Configurations
-1. Bobby Update
+# Step Three: Download Voices of Wynn (Optional)
+1. Voices of Wynn is a very popular community mod which adds voice acting for every quest in the game.
+2. If you are interested, [download the latest version](https://voicesofwynn.com/downloads) and place the mod in the mods folder.
+
+# Step Four: Configurations
+1. Bobby Update\
 As soon as you are in a world, type the following command into chat:
 ```
 /bobby upgrade
 ```
 This command is required to make bobby register the chunks saved in the instance directory.\
-2. Configure Keybinds and Settings
+2. Configure Keybinds and Settings\
 Take a look through the keybinds menu! I recommend at least changing the "Cast 1-4 Spell" keybinds to suit your mouse/keyboard.\
 Look at the Video Settings to suit your computer's performance.
+
+</details>
+
+<details>
+<summary>Common Issues</summary>
+  
+**Crashing**
+1. Minecraft 1.21 is the first verion to use Java 21. If you experience a crash, make sure you are using Java 21.
+
+**Main Menu is Glitchy/Clipping**
+1. Make sure you are using v1.1.3, as this version fixes many clipping issues.
+2. Try pressing CTRL + Alt + R to reload the menu.
 
 </details>
 
